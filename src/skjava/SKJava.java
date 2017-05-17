@@ -27,3 +27,4 @@ public class SKJava {
         System.out.println("prva ocena: " + oceneIgara[0]);
     }
 }
+//HAHA
